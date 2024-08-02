@@ -1,0 +1,310 @@
+|Book                                                     |Author                 |Times mentioned|
+|---------------------------------------------------------|-----------------------|---------------|
+|The Count of Monte Cristo                                |Alexander Dumas        |2              |
+|Hatchet                                                  |Gary Paulsen           |               |
+|Siddhartha                                               |Hermann Hesse          |3              |
+|Atlas Shrugged                                           |Ayn Rand               |5              |
+|Guns, Germs, and Steel                                   |Jared Diamond          |2              |
+|Starship Troopers                                        |Robert A. Heinlein     |2              |
+|The Machiavellians                                       |James Burnham          |               |
+|Dune Series                                              |Frank Herbert          |2              |
+|Brave New World                                          |Aldous Huxley          |               |
+|Notes from the Underground                               |Fyodor Dostoevsky      |               |
+|Meditations                                              |Marcus Aurelius        |               |
+|Call of the Wild                                         |Jack London            |               |
+|Theft of Fire                                            |Isaac Asimov           |4              |
+|Betrayal                                                 |Harold Pinter          |               |
+|Elon Musk                                                |Walter Issacson        |               |
+|Ripples from Zambezi                                     |Ernesto Sirolli        |               |
+|Creature from Jekyll Island                              |G Edward Griffin       |               |
+|The Devil's Chessboard                                   |David Talbot           |               |
+|Rule by Secrecy                                          |Jim Marrs              |               |
+|The Origins of Knowledge and Imagination                 |Jacob Bronowski        |               |
+|The Gospel in 10 Words                                   |Paul Ellis             |               |
+|Camille Pagilas Sexual Personae                          |Camille Paglia         |               |
+|Teatro Grottesco                                         |Thomas Ligotti         |               |
+|Infinite Jest                                            |David Foster Wallace   |3              |
+|The Twilight World                                       |Werner Herzog          |               |
+|The First Fifteen Lives                                  |Harry August           |               |
+|A Crack-Up at the Race Riots                             |Harmony Korrine        |               |
+|The Night Circus                                         |Erin Morgenstern       |               |
+|Sins of South Beach                                      |Alex Daoud             |               |
+|Unhumans: The Secret History of Communist Revolutions    |Jack Posobiec          |               |
+|Things Hidden Since the Foundation of the World          |Rene Girard            |               |
+|Glass Bead Game                                          |Hermann Hesse          |               |
+|Discrimnation and Disparity                              |Thomas Sowell          |               |
+|Frankenstein                                             |Mary Shelley           |               |
+|Starmaker                                                |Olaf Stapledon         |               |
+|Tau Zero                                                 |Poul Anderson          |               |
+|Rendezvous with Rama                                     |Arthur C. Clarke       |               |
+|Dirk Pitt Novels                                         |Clive Cussler          |               |
+|Antifragile                                              |Nassim Nicholas Taleb  |               |
+|The Secret Team                                          |L. Fletcher Prouty     |               |
+|Bonfire of the Vanities                                  |Tom Wolfe              |               |
+|Death's End                                              |Cixin Liu              |               |
+|Rama Revealed                                            |Arthur C. Clarke       |               |
+|Lucifer's Hammer                                         |Larry Ninven           |               |
+|Skunkworks                                               |Ben R Rich             |               |
+|The Great Gatsby                                         |F. Scott Fitzgerals    |               |
+|Stranger in a Strange Land                               |Robert A Heinlein      |               |
+|The 5000 Year Leap                                       |W. Cleon Skousen       |               |
+|The Fourth Turning                                       |William Strauss        |2              |
+|The Real Anthony Fauci                                   |Robert F Kennedy Jr.   |               |
+|God Bless You, Mr. Rosewater                             |Kurt Vonnegut Jr       |               |
+|Seeing like a State                                      |James C Scott          |               |
+|Death in the Long Grass                                  |Peter Hathaway Canstick|               |
+|Sapiens                                                  |Yuval Noah Harari      |               |
+|A Brief History of Time                                  |Steph Hawking          |               |
+|Foundation                                               |Isaac Asimov           |               |
+|Essentialism: The Disciplined Pursuit of Less            |Greg McKeown           |               |
+|Diamond Age                                              |Neal Stephenson        |               |
+|Cryptonomicon                                            |Neal Stephenson        |               |
+|Walden                                                   |Henry David Thoreau    |               |
+|Cloud Atlas                                              |David Mitchell         |               |
+|The Story of your life and others                        |Ted Chiang             |               |
+|Enders Game                                              |Orson Scott Card       |2              |
+|The Godfather                                            |Mario Puzo             |               |
+|Shantaram                                                |Gregory David Roberts  |4              |
+|A Prayer for Owen Meany                                  |John Irving            |               |
+|Birdsong                                                 |Sebastian Faulks       |               |
+|Unbroken                                                 |Laura Hillenbrand      |               |
+|The Baron in the Trees                                   |Italo Calvino          |               |
+|Discworld Series                                         |Terry Pratchett        |               |
+|Prey                                                     |Michael Chrichton      |               |
+|Incrementalism                                           |Charles E Lindblom     |               |
+|Enyclopedia of Military History                          |Dupuy and Dupuy        |               |
+|Don Juan series                                          |Carlos Castaneda       |               |
+|Flowers for Algernon                                     |Daniel Keyes           |               |
+|Range                                                    |David Epstein          |               |
+|The Autistic Brain                                       |Temple Gradin          |               |
+|Soon I Will be Invincible                                |Austin Grossman        |               |
+|Physics from Symmetry                                    |Jakob Schwichtenberg   |               |
+|The Rebel                                                |Alber Camus            |               |
+|Adaptive Markets                                         |Andrew W. Lo           |               |
+|Chaos: Charles Manson, The CIA, Secret History of the 60s|Tom O'Neill            |               |
+|The Birth and Death of Meaning                           |Ernest Becker          |               |
+|Uglies                                                   |Scott Westerfeld       |               |
+|The Sparrow                                              |Mary Doria Russell     |               |
+|Blood Meridian                                           |Cormac McCarthy        |2              |
+|Darkness at Noon                                         |Arthur Koestler        |               |
+|The Communist Manifesto                                  |Karl Marx              |               |
+|How to Win Friends and Influence People                  |Dale Carnegie          |               |
+|A Pattern Language                                       |Christopher Alexander  |               |
+|The Boys in the Boat                                     |Daniel James Brown     |               |
+|The Phantom Tollbooth                                    |Norton Juster          |               |
+|Hidden Potential                                         |Adam M Grant           |               |
+|Red Rising                                               |Pierce Brown           |               |
+|I see Satan Fall Like Lightning                          |Rene Girard            |               |
+|A Million Little Pieces                                  |James Frey             |               |
+|Jonathan livingston Seagull                              |Richard Bach           |2              |
+|The Brothers Karamazov                                   |Fyodor Dostoevsky      |               |
+|Fight Club                                               |Chuck Palahniuk        |               |
+|Barbarians at the Gate                                   |Bryan Burrough         |               |
+|The Bible                                                |God                    |               |
+|Flatland                                                 |Edwin A. Abbott        |               |
+|American Desperado                                       |Tony C. Sánchez        |               |
+|Trust Me I'm Lying                                       |Ryan Holiday           |               |
+|Spiritual Enlightenment, the Damndest Thing              |Jed McKenna            |               |
+|Gradually, Then Suddenly                                 |Parker Lewis           |               |
+|The Stormlight Archive                                   |Brandon Sanderson      |               |
+|Last and First Man                                       |Olaf Stapledon         |               |
+|East of Eden                                             |John Steinbeck         |2              |
+|The User Illusion                                        |Hjalmar Söderberg      |               |
+|The Postmortal                                           |Drew Magary            |               |
+|The Vicious Circuit Trilogy                              |Robert Brockway        |               |
+|Einstein's Dreams                                        |Alan Lightman          |               |
+|Shibumi                                                  |Trevanian              |               |
+|Another Testament of Jesus Christ                        |God                    |               |
+|Ordinary Men                                             |Chrstopher R. Browning |               |
+|Suicide of the west                                      |Johan Norberg          |               |
+|The Story of Philosophy                                  |Will Durant            |               |
+|Influence                                                |Robert Cialdini        |               |
+|Wheel of Time series                                     |Rober Jordan           |               |
+|Burn the boats                                           |Matt Higgins           |               |
+|Armor                                                    |John Steakley          |               |
+|The Crank Series                                         |Ellen Hopkins          |               |
+|The Fountainhead                                         |Ayn Rand               |               |
+|The Road to Serfdom                                      |Friedrich Hayek        |               |
+|The Parasitic Mind                                       |Richard A. Friedman    |               |
+|Diaspora                                                 |Greg Egan              |               |
+|Shoe Dog                                                 |Phil Knight            |               |
+|Short: How to Get Filthy Rich in Rising Asia             |Mohsin Hamid           |               |
+|The Naked Ape                                            |Desmond Morris         |               |
+|The Bitcoin Standard                                     |Saifedean Ammous       |               |
+|The Fiat standard                                        |Saifedean Ammous       |               |
+|Moby Dick                                                |Herman Melville        |               |
+|The Problem of Political Authority                       |Michael Huemer         |               |
+|The Diamond Age                                          |Neal Stephenson        |               |
+|Snow Crash                                               |Neal Stephenson        |4              |
+|The War of Art                                           |Steven Pressfield      |               |
+|The Stranger                                             |Albert Camus           |2              |
+|The Trial                                                |Franz Kafka            |               |
+|We                                                       |Yevgeny Zamyatin       |               |
+|Stormlight Archive                                       |Brandon Sanderson      |               |
+|Confessions of an Economic Hitman                        |John Perkins           |               |
+|The Book of Mormon                                       |Joseph Smith           |               |
+|The Illuminatus! Trilogy                                 |Robert Anton Wilson    |               |
+|The Pilgrim's Progress Reloaded                          |David Umstattd         |               |
+|Mere Christinanity                                       |C.S. Lewis             |               |
+|The Quantum Thief                                        |Hannu Rajaniemi        |               |
+|The Long Walk                                            |Slawomir Rawicz        |               |
+|The Prophet                                              |Kahil Gibrab           |               |
+|Malazan (Fallen Series)                                  |Steven Erikson         |               |
+|Children of Time                                         |Adrian Tchaikovsky     |               |
+|S. / Ship of Theseus                                     |JJ Abrams              |               |
+|Seveneves                                                |Neal Stephenson        |               |
+|Replay                                                   |Ken Grimwood           |               |
+|Musashi                                                  |Eiji Yoshikawa         |               |
+|Hyperion                                                 |Dan Simmons            |               |
+|The Gulag Archipelago                                    |Aleksandr Solzhenitsyn |               |
+|Speaker for the Dead                                     |Orson Scott Card       |               |
+|Story of your life & exhalation                          |Ted Chiang             |               |
+|The Goal                                                 |Eliyahu Goldratt       |               |
+|QED: The strange theory of light and matter              |Richard Feynman        |               |
+|Surreal Numbers                                          |Knuth                  |               |
+|The High Cost of Good Intentions                         |John F Cogan           |               |
+|Running the Light                                        |Sam Tallent            |               |
+|Guards Guards                                            |Terry Pratchett        |               |
+|Quicksilver                                              |Neal Stephenson        |               |
+|The Confusion                                            |Neal Stephenson        |               |
+|The System of the World                                  |Neal Stephenson        |               |
+|LOTR Series                                              |J.R.R. Tolkien         |               |
+|Fanged Noumena                                           |Nick Land              |               |
+|Unqualified Reservations                                 |Curtis Yarvin          |               |
+|Bloody Shovel                                            |Spandrell              |               |
+|Animal Farm                                              |George Orwell          |2              |
+|The Beginning of Infinity                                |David Deutsch          |               |
+|What has Government done to our money?                   |Murray N Rothbard      |               |
+|Vietnam Inc.                                             |Phillip Jones Griffiths|               |
+|The Forever War Series                                   |Joe Haldeman           |               |
+|Sinister Forces                                          |Peter Lavenda          |               |
+|Lake Success                                             |Gary Shteyngart        |               |
+|The Master and Margarita                                 |Mikhail Bulgakov       |               |
+|John Dies at the End                                     |David Wong             |               |
+|The Reapers Are the Angels                               |Alden Bell             |               |
+|The Mission, the Men, and Me                             |Pete Blaber            |               |
+|Project Hail Mary                                        |Andy Weir              |               |
+|The Fund                                                 |Rob Copeland           |               |
+|Fooled by Randomness                                     |Nassim Nicholas Taleb  |               |
+|Zen and the art of motorcycle maintenance                |Robert M. Pirsig       |3              |
+|The Lion, The Witch, and the Wardrobe                    |C.S. Lewis             |               |
+|Catch 22                                                 |Joseph Heller          |               |
+|Deep Work                                                |Cal Newport            |               |
+|One Second After                                         |William R. Forstchen   |               |
+|Slaughterhouse Five                                      |Kurt Vonnegut          |2              |
+|Jerusalem                                                |Alan Moore             |               |
+|The End of the History and the last man                  |Francis Fukuyama       |               |
+|Coming through Slaughter                                 |Michael Ondaatje       |               |
+|I Could read the sky                                     |Timoth O'Grady         |               |
+|The Black House                                          |Peter May              |               |
+|The Denial of Death                                      |Ernest Becker          |               |
+|The Rape of the Mind                                     |Joost Meerlo           |               |
+|Man's Search for Meaning                                 |Viktor Frankl          |               |
+|The Case of Sargent Grischa                              |Arnold Zweig           |               |
+|The Space Triology                                       |C.S. Lewis             |               |
+|Empire of the Summer Moon                                |SC Gwynne              |               |
+|Siddartha                                                |Herman Hesse           |               |
+|Clean Well Lighted Places                                |Hemmingway             |               |
+|The Three Hermits                                        |Leo Tolstoy            |               |
+|The Storm Before the Calm                                |David Shulman          |               |
+|Smoke Gets in Your Eyes                                  |Caitlin Doughty        |               |
+|Indifferent Stars Above                                  |Daniel James Brown     |               |
+|Art of the Deal                                          |Donald J. Trump        |               |
+|Art of War                                               |Sun Tzu                |2              |
+|Essays in Idleness                                       |Kenko                  |2              |
+|Revelation space                                         |Alastair Reynolds      |               |
+|The Great Escape                                         |Paul Brickhill         |               |
+|Travels                                                  |Michael Chrichton      |               |
+|Travis McGee Series                                      |John Macdonald         |               |
+|Candide                                                  |Voltaire               |               |
+|Millionaire Next Door                                    |Thomas J. Stanley      |               |
+|Factfulness                                              |Hans Rosling           |               |
+|The Mandibles                                            |Lionel Shriver         |2              |
+|The Road                                                 |Cormac McCarthy        |               |
+|Road to Serfdom                                          |Friedrich Hayek        |               |
+|Reilly's Luck                                            |Louis L'Amour          |               |
+|The Dream Machine                                        |Mitchell Weldberg      |               |
+|Beyond Good and Evil                                     |Friedrich Nietzsche    |2              |
+|Prometheus Rising                                        |Robert Anton WIlson    |2              |
+|The Power and the glory                                  |Graham Greene          |               |
+|The Entangled Life                                       |Merlin Sheldrake       |               |
+|Dr. Mary's Monkey                                        |Edward T Haslam        |               |
+|Book of Tea                                              |Okakura Kakuzo         |               |
+|Who killed curt cobain                                   |Ian Halperin           |               |
+|First Light                                              |Geoffrey Wellum        |               |
+|Age of Entitlement                                       |Christopher Caldwell   |               |
+|A Confederacy of Dunces                                  |John Kennedy Toole     |               |
+|In the heart of the sea                                  |Nathaniel Philbrick    |               |
+|Redwall series                                           |Brian Jacques          |               |
+|Lolita                                                   |Vladamir Nabokov       |               |
+|The Alchemist                                            |Paulo Coelho           |               |
+|Baghavad Gita                                            |God                    |               |
+|Entertaining Ourselves to Death                          |Neil Postman           |               |
+|Blitzed                                                  |Normal Ohler           |               |
+|Free Women, Free men                                     |Camile Paglia          |               |
+|Our Inner Ape                                            |Franz de Waal          |               |
+|On Writing                                               |Stephen King           |               |
+|Life at the bottom                                       |Theodore Dalrymple     |               |
+|Keepers of the garden                                    |Dolores Cannon         |               |
+|Feersum Endjinn                                          |Iain M Banks           |               |
+|Lord of the World                                        |Robert Hugh Benson     |               |
+|Teatro Grottesco                                         |Thomas Ligotti         |               |
+|Paradise Lost                                            |John Milton            |               |
+|Teach Us to Sit Still                                    |Tim Parks              |               |
+|Nostromo                                                 |Joseph Conrad          |               |
+|The Milagro Beanfield War                                |John Nichols           |               |
+|Open Veins of Latin America                              |Eduardo Galeano        |               |
+|Bronze Age Mindset                                       |Bronze Age Pervert     |               |
+|War and Peace                                            |Leo Tolstoy            |               |
+|Beowulf                                                  |Various Translations   |               |
+|The Machine Stops                                        |E.M. Forster           |               |
+|The Dancing Wu Li Masters                                |Gary Zukav             |               |
+|The Mind Illuminated                                     |John Yates             |               |
+|Foucalt's Pendulum                                       |Umberto Eco            |               |
+|The Matarese Circle                                      |Robert Ludlum          |               |
+|The Price of Tomorrow                                    |Jeff Booth             |               |
+|The Body keeps the score                                 |Bessel van der Kolk    |               |
+|Ubik                                                     |Phillip K Dick         |               |
+|Horus Rising                                             |Dan Abnett             |               |
+|Hell in a very small place                               |Bernard Fall           |               |
+|That Hideous Strength                                    |C.S. Lewis             |               |
+|Deep Survival: Who Lives, who dies, and why              |Laurence Gonzales      |               |
+|Propaganda                                               |Edward L Bernays       |               |
+|Human Chord                                              |Blackwood Algernon     |               |
+|The Blind Watchmaker                                     |Richard Dawkins        |               |
+|The Revolt of Angels                                     |Anatole France         |               |
+|The Match King                                           |Frank Partnoy          |               |
+|The South                                                |Colm Toibin            |               |
+|Hiding in Plain Sight                                    |Sarah Kendzior         |               |
+|Human Action                                             |Ludwig von Mises       |               |
+|West With the night                                      |Beryl Markham          |               |
+|Jacob's Ladder                                           |Bruce Joel Rubin       |               |
+|Generation Kill                                          |Robert T. Hogue        |               |
+|Waiting for Godot                                        |Samuel Beckett         |               |
+|Eating Animals                                           |Jonathan Safran Foer   |               |
+|Pillars of the Earth and World without end               |Ken Follet             |               |
+|Space Odyssey 2001                                       |Arthur C. Clarke       |               |
+|Leave Society                                            |Tao Lin                |               |
+|The Moral economy of the peasant                         |James Scott            |               |
+|Three Comrades                                           |Erich Remarque         |               |
+|Lonesome Dove                                            |Larry McMurtry         |               |
+|Stand on Zanzibar                                        |John Brunner           |               |
+|Cobalt Red                                               |Siddarth Kara          |               |
+|How the world really works                               |Vaclav Smil            |               |
+|The laws of human nature                                 |Robert Greene          |               |
+|Broken Money                                             |Lyn Alden              |               |
+|Our Mathematical Universe                                |Max Tegmark            |               |
+|The Creative Act                                         |Rick Rubin             |               |
+|Memories, Dreams, Reflections                            |CG Jung                |               |
+|Leviathan and its enemies                                |Samuel Francis         |               |
+|Lady Joker                                               |Koru Takamura          |               |
+|1Q84                                                     |Haruki Murakami        |               |
+|The Gate Thief                                           |Orson Scott Card       |               |
+|Ends and Means                                           |Aldous Huxley          |               |
+|A Canticle for Leibowitz                                 |Walter M Miller        |               |
+|The Reset                                                |Jack Moore             |               |
+|The rise and fall of the thid reich                      |William Shirer         |               |
+|The Island                                               |Aldous Huxley          |               |
+|Divided Kingdom                                          |Rupert Thomson         |               |
+|Life's Ratchet                                           |Peter Thomson          |               |
+|The Moviegoer                                            |Walker Percy           |               |
